@@ -1,0 +1,4 @@
+city,locality,property_type,transaction_date,area_sqft,transaction_value_inr,source_record_id,source_name
+Indore,Vijay Nagar,Apartment,2026-01-15,1200,5400000,DEMO-001,Demo CSV
+Pune,Baner,Apartment,2026-02-10,950,7600000,DEMO-002,Demo CSV
+Mumbai,Powai,Apartment,2026-02-20,800,15000000,DEMO-003,Demo CSV

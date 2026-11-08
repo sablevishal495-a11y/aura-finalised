@@ -1,0 +1,25 @@
+city,locality,guideline_rate_per_sqft_inr,metro_distance_km,infra_score,green_cover_pct,market_trend_yoy_pct,data_source
+Mumbai,Andheri,13380.0,5.4,8.6,25.9,-0.7,SYNTHETIC_DEMO
+Mumbai,Powai,14290.0,9.2,8.1,8.8,4.3,SYNTHETIC_DEMO
+Mumbai,Borivali,11570.0,11.1,7.2,29.7,4.2,SYNTHETIC_DEMO
+Mumbai,Thane,10920.0,6.8,3.4,29.8,6.8,SYNTHETIC_DEMO
+Pune,Hinjewadi,6290.0,4.4,9.3,31.8,8.9,SYNTHETIC_DEMO
+Pune,Wakad,5090.0,5.8,3.3,9.6,7.6,SYNTHETIC_DEMO
+Pune,Kothrud,6260.0,11.6,5.1,16.1,4.6,SYNTHETIC_DEMO
+Pune,Baner,5080.0,1.8,6.1,11.8,7.4,SYNTHETIC_DEMO
+Bengaluru,Whitefield,6590.0,10.0,7.6,14.4,9.7,SYNTHETIC_DEMO
+Bengaluru,Electronic City,7510.0,4.8,4.9,25.5,-0.0,SYNTHETIC_DEMO
+Bengaluru,Indiranagar,6000.0,0.4,8.1,24.9,7.9,SYNTHETIC_DEMO
+Bengaluru,Hebbal,7450.0,5.7,6.7,9.2,-0.4,SYNTHETIC_DEMO
+Delhi,Dwarka,8610.0,5.8,6.7,27.9,6.9,SYNTHETIC_DEMO
+Delhi,Rohini,8260.0,6.8,5.0,5.9,4.1,SYNTHETIC_DEMO
+Delhi,Saket,7240.0,5.1,8.5,12.0,-1.2,SYNTHETIC_DEMO
+Delhi,Vasant Kunj,7440.0,3.7,7.3,21.7,9.0,SYNTHETIC_DEMO
+Hyderabad,Gachibowli,5370.0,5.1,8.3,10.0,-1.7,SYNTHETIC_DEMO
+Hyderabad,Kukatpally,4290.0,8.8,6.0,9.8,5.0,SYNTHETIC_DEMO
+Hyderabad,Miyapur,4410.0,8.4,5.9,16.4,2.2,SYNTHETIC_DEMO
+Hyderabad,HITEC City,5310.0,4.5,3.6,8.5,11.5,SYNTHETIC_DEMO
+Indore,Vijay Nagar,3500.0,8.5,4.7,34.1,8.9,SYNTHETIC_DEMO
+Indore,Rau,3280.0,5.6,4.8,7.9,10.6,SYNTHETIC_DEMO
+Indore,Palasia,2990.0,2.7,5.0,22.4,0.5,SYNTHETIC_DEMO
+Indore,Super Corridor,3440.0,9.2,7.7,18.0,6.8,SYNTHETIC_DEMO
